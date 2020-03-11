@@ -11,6 +11,7 @@ Current project:
 # Customer Segmentation for a physical store
 The project will be uploded on 17 Mar 2020
 
+![](images/customer.png)
 
 --------------------------
 # Analyzing data from previous US presidential elections
