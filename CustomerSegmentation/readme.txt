@@ -1,1 +1,2 @@
 
+# The Customer Segmentation project
