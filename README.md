@@ -5,7 +5,7 @@ Next Project -->
 # Purchase predictions through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
 
-
+![](images/purchase.png)
 --------------------------
 Current project:
 # Customer Segmentation for a physical store
