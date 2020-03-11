@@ -25,3 +25,5 @@ Looking into trip data form BIXI, Montréal's bicycle sharing system
 
 Data visualization and reporting using Tableau and Microsoft Excel
 Note: The last three projects were delivered as project assignments for BrainStation's Data Science Diploma program and cannot be shared publicly. 
+
+![](images/bixi.png)
