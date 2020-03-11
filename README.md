@@ -14,6 +14,11 @@ The project will be uploded on 17 Mar 2020
 
 --------------------------
 # Analyzing data from previous US presidential elections
+- Analysing and data cleaning 
+- Making the prediction of next election
+
+![](images/PresidentUS.png)
+----------------------------
 
 # EDA and Data Cleaning
 Statistical analysis and data visualization
