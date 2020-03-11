@@ -1,20 +1,27 @@
 # My-Projects
 All my projects and interests related to Data Science and Machine learning
 
-Current project --> Customer Segmentation and purchase prediction
-The project will be uploded comple when its done
+Next Project --> 
+# Purchase predictions through DEEP LEARNING
+The project will be uploded on 23 Mar 2020
 
 
 --------------------------
-Analyzing data from previous US presidential elections
+Current project:
+# Customer Segmentation for a phisical store
+The project will be uploded on 17 Mar 2020
 
-EDA and Data Cleaning
+
+--------------------------
+# Analyzing data from previous US presidential elections
+
+# EDA and Data Cleaning
 Statistical analysis and data visualization
 Statistical modeling, model selection and result interpretation
 Looking into trip data form BIXI, Montréal's bicycle sharing system
 
 ----------------------------
-Basic SQL Queries on MySQL Workbench
+# SQL Queries on MySQL Workbench and data Visualization 
 
 Data visualization and reporting using Tableau and Microsoft Excel
 Note: The last three projects were delivered as project assignments for BrainStation's Data Science Diploma program and cannot be shared publicly. 
