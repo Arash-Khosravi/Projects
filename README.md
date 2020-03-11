@@ -4,11 +4,6 @@ All of my projects and interests related to Data Science and Machine learning
 ----------------------
 
 
-### Note: The last three projects were delivered as project assignments for BrainStation's Data Science Diploma program and cannot be shared publicly.
-
--------------------------------------------------------
-
-
 Next Project --> 
 # 5.Purchase predictions through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
@@ -48,4 +43,10 @@ The project will be uploded on 17 Mar 2020
  - Data visualization and reporting using Tableau and Microsoft Excel
  
  ![](images/money.png)
-  
+
+
+-------------------------------------------------------
+
+
+### Note: The last three projects were delivered as project assignments for BrainStation's Data Science Diploma program and cannot be shared publicly.
+
