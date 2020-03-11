@@ -8,8 +8,8 @@ Next Project -->
 # 5.Purchase predictions through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
 
-![](images/purchases.png)
 
+![](images/elasticity.png)
 
 --------------------------
 Current project:
@@ -18,6 +18,7 @@ The project will be uploded on 17 Mar 2020
 
 ![](images/customer.png)
 
+![](images/purchases.png)
 
 --------------------------
 # 3.Analyzing data from previous US presidential elections
