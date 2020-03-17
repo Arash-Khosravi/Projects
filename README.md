@@ -7,7 +7,6 @@
 Next Project --> 
 # 6.This project was to make an insight for WINE dataset in kaggle
 
-
 ![](images/wine-dataset.png)
 --------------------------
 # 5.Purchase predictions through DEEP LEARNING
