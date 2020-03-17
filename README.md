@@ -5,6 +5,11 @@ All of my projects and interests related to Data Science and Machine learning
 
 
 Next Project --> 
+# 6.This project was to make an insight for WINE dataset in kaggle
+
+
+
+--------------------------
 # 5.Purchase predictions through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
 
