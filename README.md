@@ -5,27 +5,32 @@
 
 
 Next Project --> 
-# 6.This project was to make an insight for WINE dataset in kaggle
 
-![](images/wine-dataset.png)
---------------------------
-# 5.Purchase predictions by elasticity through DEEP LEARNING
+# - Purchase predictions by elasticity through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
 
 
 ![](images/elasticity.png)
 
 --------------------------
+
 Current project:
-# 4.Customer Segmentation for a physical store
+# - Customer Segmentation for a physical store
 The project will be uploded on 17 Mar 2020
 
 ![](images/customer.png)
 
 ![](images/purchases.png)
 
+-------------------------
+
+# - This project was to make an insight for WINE dataset in kaggle
+
+![](images/wine-dataset.png)
+
 --------------------------
-# 3.Analyzing data from previous US presidential elections
+
+# - Analyzing data from previous US presidential elections
 - Analysing and data cleaning 
 - Making the prediction of next election
 
@@ -34,7 +39,7 @@ The project will be uploded on 17 Mar 2020
 
 ----------------------------
 
-# 2.EDA and Data Cleaning
+# - EDA and Data Cleaning
 - Statistical analysis and data visualization
 - Statistical modeling, model selection and result interpretation
 - Looking into trip data form BIXI, Montréal's bicycle sharing system
@@ -43,7 +48,8 @@ The project will be uploded on 17 Mar 2020
 
 
 ----------------------------
-# 1.SQL Queries on MySQL Workbench and data Visualization 
+
+# - SQL Queries on MySQL Workbench and data Visualization 
 
  - Data visualization and reporting using Tableau and Microsoft Excel
  
