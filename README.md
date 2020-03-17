@@ -9,7 +9,7 @@ Next Project -->
 
 ![](images/wine-dataset.png)
 --------------------------
-# 5.Purchase predictions through DEEP LEARNING
+# 5.Purchase predictions by elasticity through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
 
 
