@@ -4,5 +4,5 @@
 # The question:
 ### Which wine attributes are related to customers rating wines as good and bad?
 
-![]dataset-orginal.jpg
+![]/dataset-orginal.jpg
 
