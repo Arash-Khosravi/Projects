@@ -8,7 +8,7 @@ Next Project -->
 # 6.This project was to make an insight for WINE dataset in kaggle
 
 
-
+![](images/wine_dataset.png)
 --------------------------
 # 5.Purchase predictions through DEEP LEARNING
 The project will be uploded on 23 Mar 2020
