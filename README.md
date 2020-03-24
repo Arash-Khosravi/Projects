@@ -15,7 +15,7 @@ The project will be uploded on 23 Mar 2020
 --------------------------
 
 Current project:
-# - Customer Segmentation for a physical store
+# - Customer Segmentation
 The project will be uploded on 17 Mar 2020
 
 ![](images/customer.png)
