@@ -5,18 +5,27 @@
 
 
 Next Project --> 
+# Face recognition
+### OpenCV, Deeplearning
 
+![](images/Facial-Recognition.png)
+
+
+-------------------
+
+Current project:
 # - Purchase predictions by elasticity through DEEP LEARNING
-The project will be uploded on 23 Mar 2020
+### AWS, TensorFlow, Keras, Neural Networking
+The project will be uploded on 27 Mar 2020
 
 
 ![](images/elasticity.png)
 
 --------------------------
 
-Current project:
+
 # - Customer Segmentation
-The project will be uploded on 17 Mar 2020
+### Hierarchical Clustering, K-Mean, PCA method, Silhouette method
 
 ![](images/customer.png)
 
@@ -27,6 +36,7 @@ The project will be uploded on 17 Mar 2020
 -------------------------
 
 # - This project was to make an insight for WINE dataset in kaggle
+### PipeLine, VIF, Logistic Regression
 
 ![](images/wine-dataset.png)
 
