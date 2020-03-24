@@ -30,6 +30,7 @@ The project will be uploded on 17 Mar 2020
 
 ![](images/wine-dataset.png)
 
+##### link to rep: https://github.com/Arash-Khosravi/Wine-Attributes
 --------------------------
 
 # - Analyzing data from previous US presidential elections
