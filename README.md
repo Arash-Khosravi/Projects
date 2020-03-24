@@ -22,7 +22,8 @@ The project will be uploded on 17 Mar 2020
 
 ![](images/purchases.png)
 
-link to rep: https://github.com/Arash-Khosravi/Customer-Clustering
+
+##### link to rep: https://github.com/Arash-Khosravi/Customer-Clustering
 -------------------------
 
 # - This project was to make an insight for WINE dataset in kaggle
