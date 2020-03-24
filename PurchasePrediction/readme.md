@@ -4,12 +4,12 @@
 
 
 
-# Price Elasticity
+# Price Elasticity of Purchase Quantity with promotion
 
 ![](elasticity-2.png)
 
 
 
-# Cross Brand Elasticity
+# Price Elasticity of purchase probability
 
 ![](CrossBrandPlot.png)
