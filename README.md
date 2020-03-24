@@ -8,7 +8,7 @@ Next Project -->
 # Face recognition
 ### OpenCV, Deeplearning
 
-![](images/Facial-Recognition.png)
+![](images/Facial-Recognition.jpg)
 
 
 -------------------
