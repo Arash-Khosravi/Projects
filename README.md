@@ -13,7 +13,14 @@ Next Project -->
 
 -------------------
 
-Current project:
+# - IBM Data Scientist Professional Certification Project
+## Best Neighbourhood to open a new Persian restaurant
+### Unsupervised learning, K-mean Clustering, Folium Library and Leaflet Map , Predictive Modelling
+
+![](images/toronto.png)
+
+
+-------------------
 # - Purchase predictions by elasticity through DEEP LEARNING
 ### AWS, TensorFlow, Keras, Neural Networking
 The project will be uploded on 27 Mar 2020
