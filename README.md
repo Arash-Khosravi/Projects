@@ -3,8 +3,15 @@
 
 ----------------------
 
-
 Next Project --> 
+# - Skin Cancer Detection on ISIC image dataset
+### ### TensorFlow2, Keras, Python
+
+![](images/isic-1.jpg)
+
+
+-------------------
+
 # - Face recognition
 ### OpenCV, Deeplearning
 
