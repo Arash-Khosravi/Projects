@@ -1,5 +1,5 @@
 # My-Projects
-#### All of my projects and interests related to Data Science and Machine learning
+#### All of my projects and interests
 
 ----------------------
 
