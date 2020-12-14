@@ -5,7 +5,7 @@
 
 On Hand Project --> 
 # - Stock Price Prediction
-### ### TensorFlow2, Keras, Python
+### Python
 
 ![](images/Apple-stock-price-2020.png)
 
@@ -13,7 +13,7 @@ On Hand Project -->
 -------------------
 
 # - Skin Cancer Detection on ISIC image dataset
-### ### TensorFlow2, Keras, Python
+### TensorFlow2, Keras, Python
 
 ![](images/isic-1.png)
 
