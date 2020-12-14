@@ -3,7 +3,15 @@
 
 ----------------------
 
-Next Project --> 
+On Hand Project --> 
+# - Stock Price Prediction
+### ### TensorFlow2, Keras, Python
+
+![](images/Apple-stock-price-2020.png)
+
+##### link to rep: https://github.com/Arash-Khosravi/Stock-Price-Prediction
+-------------------
+
 # - Skin Cancer Detection on ISIC image dataset
 ### ### TensorFlow2, Keras, Python
 
