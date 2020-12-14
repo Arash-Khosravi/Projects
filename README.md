@@ -9,7 +9,7 @@ Next Project -->
 
 ![](images/isic-1.png)
 
-
+##### link to rep: https://github.com/Arash-Khosravi/Skin-Cancer-Detection
 -------------------
 
 # - Face recognition
@@ -17,7 +17,7 @@ Next Project -->
 
 ![](images/Facial-Recognition.jpg)
 
-
+##### link to rep: https://github.com/Arash-Khosravi/Object-Detection
 -------------------
 
 # - IBM Data Scientist Professional Certification Project
@@ -26,7 +26,7 @@ Next Project -->
 
 ![](images/toronto.png)
 
-
+##### link to rep: https://github.com/Arash-Khosravi/IBM-DataScientist-Certification
 -------------------
 # - Purchase predictions by elasticity through DEEP LEARNING
 ### AWS, TensorFlow, Keras, Neural Networking
