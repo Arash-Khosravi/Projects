@@ -12,6 +12,14 @@ On Hand Project -->
 ##### link to rep: https://github.com/Arash-Khosravi/Stock-Price-Prediction
 -------------------
 
+# - US Volcanoes Interactive Map
+### Python, Pandas, Folium
+
+![](images/volcano.png)
+
+##### link to rep: https://github.com/Arash-Khosravi/US-Volcanoes-Map
+-------------------
+
 # - Skin Cancer Detection on ISIC image dataset
 ### TensorFlow2, Keras, Python
 
